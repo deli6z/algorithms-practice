@@ -1,13 +1,16 @@
-/* 3-SUM in quadratic time.
+/**
+ * Coursera - Algorithms Part I
+ * Week 1 - Interview Questions - Union Find
+ * <p>
+ * Question 2: 3-SUM in quadratic time.
  * Design an algorithm for the 3-SUM problem that takes time proportional to n^2
  * in the worst case. You may assume that you can sort the n integers in time proportional to n^2
  * or better.
- *
+ * <p>
  * Solution: First we sort the array with make sure all the values are unique ( at most O(n^2) )
  * Then we use the solution with pointers where we set 2 pointers on both ends of array and iterate
  * over it once the solution is found moving the pointers towards each other. This solution also
  * guarantees there will be no duplicate triplets.
- *
  */
 
 import java.util.Scanner;
