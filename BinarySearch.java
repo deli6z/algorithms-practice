@@ -24,7 +24,7 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int key = Integer.parseInt(args[0]);
+        int key = 10;
         int arr[] = {10, 20, 15, 22, 35};
         Arrays.sort(arr);
         // for testing descending array search

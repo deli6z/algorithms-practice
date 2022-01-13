@@ -10,8 +10,8 @@
  * We will update it with the value if new element in bigger than the last element in second stack
  */
 
-import edu.princeton.cs.algs4.StdIn;
-import edu.princeton.cs.algs4.StdOut;
+//import edu.princeton.cs.algs4.StdIn;
+//import edu.princeton.cs.algs4.StdOut;
 
 public class StackWithMax {
     private Node first = null;
@@ -54,18 +54,18 @@ public class StackWithMax {
 
     public static void main(String[] args) {
         StackWithMax stack = new StackWithMax();
-        while (!StdIn.isEmpty()) {
-            String item = StdIn.readString();
-            if (!item.equals("-"))
-                stack.push(Double.parseDouble(item));
-            else if (!stack.isEmpty()) {
-                StdOut.println(stack.pop() + " ");
-            }
-            if (!stack.isEmpty()) {
-                StdOut.println("Current Max is " + stack.max() + " ");
-            } else {
-                StdOut.println("Stack is empty");
-            }
-        }
+//        while (!StdIn.isEmpty()) {
+//            String item = StdIn.readString();
+//            if (!item.equals("-"))
+//                stack.push(Double.parseDouble(item));
+//            else if (!stack.isEmpty()) {
+//                StdOut.println(stack.pop() + " ");
+//            }
+//            if (!stack.isEmpty()) {
+//                StdOut.println("Current Max is " + stack.max() + " ");
+//            } else {
+//                StdOut.println("Stack is empty");
+//            }
+//        }
     }
 }
