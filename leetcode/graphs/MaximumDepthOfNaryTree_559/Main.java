@@ -1,4 +1,4 @@
-package leetcode.MaximumDepthOfNaryTree_559;
+package leetcode.graphs.MaximumDepthOfNaryTree_559;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package leetcode.CheapestFlightsWithinKStops_787;
+package leetcode.graphs.CheapestFlightsWithinKStops_787;
 
 import java.util.Arrays;
 

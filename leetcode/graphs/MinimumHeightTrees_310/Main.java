@@ -1,4 +1,4 @@
-package leetcode.MinimumHeightTrees_310;
+package leetcode.graphs.MinimumHeightTrees_310;
 
 public class Main {
     public static void main(String[] args) {

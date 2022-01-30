@@ -1,4 +1,4 @@
-package leetcode.CourseSchedule2_210;
+package leetcode.graphs.CourseSchedule2_210;
 
 
 public class Main {

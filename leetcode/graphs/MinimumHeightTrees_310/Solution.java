@@ -1,4 +1,4 @@
-package leetcode.MinimumHeightTrees_310;
+package leetcode.graphs.MinimumHeightTrees_310;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

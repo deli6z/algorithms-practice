@@ -1,4 +1,4 @@
-package leetcode.PathWithMinimumEffort_1631;
+package leetcode.graphs.PathWithMinimumEffort_1631;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package leetcode.MaximumDepthOfNaryTree_559;
+package leetcode.graphs.MaximumDepthOfNaryTree_559;
 
 class Solution2 {
     public int maxDepth(Node root) {

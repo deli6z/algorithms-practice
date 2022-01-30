@@ -1,4 +1,4 @@
-package leetcode.CourseSchedule2_210;
+package leetcode.graphs.CourseSchedule2_210;
 
 import java.util.LinkedList;
 import java.util.Stack;
